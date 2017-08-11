@@ -16,7 +16,7 @@ h2 {
 }
 
 .hero {
-  background-image: url('https://s3.amazonaws.com/codeacademy-content/projects/make-a-website/lesson-2/bg.jpg');
+  background-image: url('/bg.jpg');
   bacground-position: center top;
   background-size: cover;
   padding: 250px 0;
