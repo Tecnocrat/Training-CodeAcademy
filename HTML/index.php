@@ -8,7 +8,7 @@
     <h1>Mystwood Publishers Ltd.</h1>
     <div class="hero">
       <h2>Sprout.</h2>
-      <p>A 'change' book by George Bedford Daniel.</p>
+      <p>A book by George Bedford Daniel.</p>
       <a href="#">Read now.</a>
     </div>
     <p id = "footer">&copy; Mystwood Publishers Limited</p>
